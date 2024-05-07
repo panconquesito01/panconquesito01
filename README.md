@@ -26,15 +26,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,git,github,vscode,windows,ai,ps&perline,xml=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,git,github,vscode,windows,ai,ps&perline,xml=5" />
 
 
 #### Studying in this moment:
-  <img src="https://skillicons.dev/icons?i=dart,flutter,py,css,html,js,mysql,sqlite,vscode=9" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,py,css,html,js,mysql,sqlite,vscode=5" />
 
 #### Tools:
 
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,windows,=9" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,windows,=5" />
 
 <br>
 <br>
