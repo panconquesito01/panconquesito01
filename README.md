@@ -9,12 +9,17 @@
 
 <p align="left">
 🎓 Tecnico en programación de software
+🎓 Ingeniero en Sistemas - Desarrollo de Software 
 
-🎥 PEQUEÑO PROGRAMADOR,ARTISTA Y MUSICO INDEPENDIENTE, aprendiendo cosas nuevas cada dia 
+🎥 PROGRAMADOR,ARTISTA Y MUSICO INDEPENDIENTE, aprendiendo cosas nuevas cada dia 
 
-💻 Iniciando en el area de la programacion desde hace 2 años y 6 meses
+💻 Iniciando en el area de la programacion desde hace 3 años y 6 meses
 
-📝 roles en el ámbito: desarrollador... líder... emprendedor... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito:
+  -Desarrollador
+  -Lider
+  -Emprendedor
+  -Creativo
 
 📫 Contacto: **davidrivera0712@gmail.com**
 <!--Intro end-->
