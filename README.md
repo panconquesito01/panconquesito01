@@ -39,7 +39,7 @@
 
 #### Tools:
 
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,vs,windows,=5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,visualstudio,windows,=5" />
 
 <br>
 <br>
