@@ -35,7 +35,7 @@
 
 
 #### Studying in this moment:
-  <img src="https://skillicons.dev/icons?i=dart,flutter,py,css,html,js,mysql,sqlite,vscode=5" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,py,css,html,js,mysql,sqlite,.NET,vscode=5" />
 
 #### Tools:
 
