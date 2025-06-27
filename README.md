@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,git,github,vscode,windows,ai,ps&perline,xml=5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,firebase,git,github,vscode,visualstudio,dotnet,windows,ai,ps&perline,xml=5" />
 
 
 #### Studying in this moment:
