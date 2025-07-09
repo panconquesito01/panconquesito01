@@ -9,7 +9,7 @@
 
 <p align="left">
 🎓 Tecnico en programación de software
-🎓 Ingeniero en Sistemas - Desarrollo de Software Backend
+🎓 Ingeniero de Sistemas - Desarrollo de Software Backend
 
 🎥 PROGRAMADOR,ARTISTA Y MUSICO INDEPENDIENTE, aprendiendo cosas nuevas cada dia 
 
