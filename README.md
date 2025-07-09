@@ -23,7 +23,7 @@
 
 📫 Contacto: **davidrivera0712@gmail.com**
 
-Puedes ver mi portafolio de proyectos por medio de esre link
+Puedes ver mi portafolio de proyectos por medio de este link
 - 💼 Portafolio: **https://panconquesito01.github.io/Portafolio-David-Studio/**
 <!--Intro end-->
   </p>
