@@ -16,10 +16,10 @@
 💻 Iniciando en el area de la programacion desde hace 3 años y 6 meses
 
 📝 Roles en el ámbito:
-  -Desarrollador
-  -Lider
-  -Emprendedor
-  -Creativo
+  - Desarrollador
+  - Lider
+  - Emprendedor
+  - Creativo
 
 📫 Contacto: **davidrivera0712@gmail.com**
 
