@@ -42,7 +42,7 @@ Puedes ver mi portafolio de proyectos por medio de esre link
 
 #### Tools:
 
-  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,visualstudio,windows,=5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode,visualstudio,md,windows,=5" />
 
 <br>
 <br>
