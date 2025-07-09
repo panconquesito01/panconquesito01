@@ -11,7 +11,7 @@
 🎓 Tecnico en programación de software
 🎓 Ingeniero de Sistemas - Desarrollo de Software Backend
 
-🎥 PROGRAMADOR,ARTISTA Y MUSICO INDEPENDIENTE, aprendiendo cosas nuevas cada dia 
+🎥 PROGRAMADOR, ARTISTA Y MUSICO INDEPENDIENTE, aprendiendo cosas nuevas cada dia 
 
 💻 Iniciando en el area de la programacion desde hace 3 años y 6 meses
 
